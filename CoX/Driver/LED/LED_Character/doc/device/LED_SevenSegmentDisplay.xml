@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<Device>
+    <Name>LED_SevenSegmentDisplay</Name>
+    <Description>
+        The LED_SevenSegmentDisplay is a form of electronic display device for displaying decimal numerals that is an alternative to the more complex dot-matrix displays. It is composed of seven elements. Individually on or off, they can be combined to produce simplified representations of arabic numerals. Basically there are two types of seven segment display: common cathode(all the segments share the same cathode) and common anode(all the segments share the same anode).
+    </Description>
+    <Manufacturer>Common</Manufacturer>
+    
+    <Category>LED</Category>
+    <SubCategory>Character-LED</SubCategory>
+    
+    <KeyWord>LED, Character LED, display, decimal numeric, common cathode, common anode</KeyWord>
+    
+    <Communication>
+        <Interface>GPIO</Interface>
+    </Communication>
+    
+    <WebPage>http://en.wikipedia.org/wiki/Seven-segment_display</WebPage>
+    <Datasheet></Datasheet>
+    
+    <Doc>$Device_ROOT$\doc\</Doc>
+</Device>
