@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Example>
+  <Name>startup_test</Name>
+  <Description>This example is used to test the startup code.</Description>
+  <Version>1.0.0</Version>
+  <Tags>CMSIS_BOOT</Tags>
+  <EVKit>HT32F1755 and  HT32F2755 Development Board</EVKit>
+  
+  <Files>
+    <File>$REPO_ROOT$\Holtek\HT32F1755_2755\cmsis_lib\cmsis_boot\example\startup_test\src\main.c</File>
+  </Files>
+  
+  <Dependencys>
+    <Dependency>CMSIS_BOOT</Dependency>
+  </Dependencys>
+  
+   
+</Example>
